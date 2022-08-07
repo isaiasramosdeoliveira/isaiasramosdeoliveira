@@ -13,7 +13,6 @@
   <img align="center" alt="react" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png">
   <img align="center" alt="python" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png">
   <img align="center" alt="node.js" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png">       
-  <img src="https://assets1.lottiefiles.com/private_files/lf30_obidsi0t.json">
 </div>
 
 ##
