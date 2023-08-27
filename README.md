@@ -1,23 +1,12 @@
-## Sejam bem vindos!
-- 💻 Estudante de Engenharia de Software.
-
 <img src=".github/banner.png" />
 <br>
-<br>
+<p>Olá, sou Isaías Ramos, um graduando em Engenharia de Software com interesse em tecnologia e desenvolvimento de software. Embora eu não tenha experiência profissional na área, estou sempre buscando aprender e me atualizar sobre as novas tendências do mercado.</p>
 <br>
   
 <div align="center">
   <a href="https://github.com/isaiasramosdeoliveira">
   <img height="200px" width="55%" src="https://github-readme-stats.vercel.app/api?username=isaiasramosdeoliveira&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="200px" width="40%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaiasramosdeoliveira&layout=compact&langs_count=7&theme=gotham"/>
-</picture margin="auto">
-  <div style="display: inline_block"><br>
-  <img align="center"alt="Js" height="30" width="30" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
-  <img align="center" alt="html" height="30" width="30" src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png">
-  <img align="center" alt="node.js" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png">   
-  <img align="center" alt="css" height="30" width="30"src="https://avatars.githubusercontent.com/u/112610040?s=280&v=4">
-  <img align="center" alt="react" height="30" width="30" src="https://docs.nestjs.com/assets/logo-small.svg">
-</picture>
 
 ##
 
