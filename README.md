@@ -2,6 +2,9 @@
 - 💻 Estudante de Engenharia de Software.
 
 <img src=".github/banner.png" />
+<br>
+<br>
+<br>
   
 <div align="center">
   <a href="https://github.com/isaiasramosdeoliveira">
