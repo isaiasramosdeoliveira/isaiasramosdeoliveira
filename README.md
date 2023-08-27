@@ -1,5 +1,7 @@
 ## Sejam bem vindos!
 - 💻 Estudante de Engenharia de Software.
+
+<img src=".github/banner.png" />
   
 <div align="center">
   <a href="https://github.com/isaiasramosdeoliveira">
