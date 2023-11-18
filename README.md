@@ -2,7 +2,7 @@
 <br>
 
 ## 👋🏻 About me
-<p>Olá, sou Isaías Ramos, um graduando em Engenharia de Software com interesse em tecnologia e desenvolvimento de software. Embora eu não tenha experiência profissional na área, estou sempre buscando aprender e me atualizar sobre as novas tendências do mercado.</p>
+<p>Olá, sou Isaías Ramos, um graduando em Engenharia de Software com interesse em tecnologia e desenvolvimento de software. Estou sempre buscando aprender e me atualizar sobre as novas tendências do mercado.</p>
 
  - 💼 Focado em aprender as principais tecnologias do mercado.
  - ✏️ Atualmente estudando PHP e Docker. 
