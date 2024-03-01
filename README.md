@@ -1,4 +1,3 @@
-<img src=".github/banner.png" />
 <br>
 
 ## 👋🏻 About me
