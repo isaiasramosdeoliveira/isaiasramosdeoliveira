@@ -2,11 +2,17 @@
 <br>
 
 ## 👋🏻 About me
-<p>Olá, sou Isaías Ramos, um graduando em Engenharia de Software com interesse em tecnologia e desenvolvimento de software. Estou sempre buscando aprender e me atualizar sobre as novas tendências do mercado.</p>
+<p>Hello, I'm Isaías Ramos, a Software Engineering graduate with an interest in technology and software development.
+<br>
+<br>
+In recent months, I have dedicated myself to studying programming and software development, taking online courses and practicing on personal projects. My goal is to acquire solid knowledge in programming and be able to contribute to the development of efficient and creative solutions.
+<br>
+ <br>
+I am a determined, organized person with problem-solving skills. I believe that these skills can be applied in the area of ​​software development to contribute significantly to the team.</p>
 
- - 💼 Focado em aprender as principais tecnologias do mercado.
- - ✏️ Atualmente estudando PHP e Docker. 
- - 📕 Amor por livros de ficção.
+ - 💼 Focused on learning the main technologies on the market.
+ - ✏️ Currently studying AWS and Docker. 
+ - 📕 Love for fiction books.
 
 <br>
 
