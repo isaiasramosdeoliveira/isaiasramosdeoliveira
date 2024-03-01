@@ -10,9 +10,9 @@ In recent months, I have dedicated myself to studying programming and software d
  <br>
 I am a determined, organized person with problem-solving skills. I believe that these skills can be applied in the area of ​​software development to contribute significantly to the team.</p>
 
- - 💼 Focado em aprender as principais tecnologias do mercado.
- - ✏️ Atualmente estudando PHP e Docker. 
- - 📕 Amor por livros de ficção.
+ - 💼 Focused on learning the main technologies on the market.
+ - ✏️ Currently studying AWS and Docker. 
+ - 📕 Love for fiction books.
 
 <br>
 
