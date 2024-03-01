@@ -18,6 +18,9 @@ I am a determined, organized person with problem-solving skills. I believe that 
 
 
 ## 🎓 Skills
+<div align='center'>
+
+<h3>Back-end</h3>
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -28,6 +31,9 @@ I am a determined, organized person with problem-solving skills. I believe that 
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 [![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+
+<h3>Front-end</h3>
+
 [![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.w3schools.com/js/)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
@@ -43,13 +49,17 @@ I am a determined, organized person with problem-solving skills. I believe that 
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+</div>
+
+
+
 
 
 <br>
 
 ## ✉️ Contacts
 
-<div>
+<div align='center'>
     <a href="https://www.instagram.com/isaias.r.o/" target="_blank">
       <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
     </a>
@@ -71,4 +81,4 @@ I am a determined, organized person with problem-solving skills. I believe that 
   <a href="https://github.com/isaiasramosdeoliveira">
   <img height="200px" width="55%" src="https://github-readme-stats.vercel.app/api?username=isaiasramosdeoliveira&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="200px" width="40%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaiasramosdeoliveira&layout=compact&langs_count=7&theme=gotham"/>
-  </div>
+</div>
